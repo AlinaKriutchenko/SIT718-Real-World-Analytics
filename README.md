@@ -1,1 +1,4 @@
-# SIT718-Real-World-Analytics-
+# SIT718-Real-World-Analytics
+Programming Language: R
+
+This unit introduces students to two concepts at the heart of real world analytics: optimisation and multivariate data aggregation. Students will learn how decision-making problems in industry, business, and civic services can be solved using modern modelling and solution techniques. Students will learn how to make better decisions through mathematical methods in optimisation problems such as: production planning, time-tabling management, human resource rostering, sports program scheduling, robotics/vehicle routing, network design, and resource allocation. On the topic of aggregation, students will learn how to apply the concepts of multivariate functions in order to summarise datasets that involve several interrelated variables. They will be able to reasonably analyse datasets by interpreting the parameters associated with commonly used multivariate functions.
